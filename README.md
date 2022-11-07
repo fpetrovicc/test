@@ -1,2 +1,3 @@
-# test
-Test repo to practice git commands.
+# Testing
+
+Hello Odin!
